@@ -77,8 +77,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
+
+2. [slipnet-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/slipnet-windows-amd64)
 
 ---
