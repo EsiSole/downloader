@@ -89,6 +89,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
@@ -103,6 +105,8 @@ a
 
 6. [findns-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/findns-windows-amd64)
 
-7. [slipnet-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/slipnet-windows-amd64)
+7. [nextplayer-v0.16.3-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/nextplayer-v0.16.3-arm64-v8a)
+
+8. [slipnet-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/slipnet-windows-amd64)
 
 ---
