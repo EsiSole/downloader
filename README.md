@@ -93,24 +93,28 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [ShirOKhorshid-2026.03.17](https://github.com/EsiSole/downloader/tree/main/downloads/ShirOKhorshid-2026.03.17)
 
-2. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
+2. [ShirOKhorshid-2026.05.14](https://github.com/EsiSole/downloader/tree/main/downloads/ShirOKhorshid-2026.05.14)
 
-3. [StormDNS_Client_Windows_AMD64](https://github.com/EsiSole/downloader/tree/main/downloads/StormDNS_Client_Windows_AMD64)
+3. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
 
-4. [TooshehSetup-4](https://github.com/EsiSole/downloader/tree/main/downloads/TooshehSetup-4)
+4. [StormDNS_Client_Windows_AMD64](https://github.com/EsiSole/downloader/tree/main/downloads/StormDNS_Client_Windows_AMD64)
 
-5. [app-arm64-v8a-release](https://github.com/EsiSole/downloader/tree/main/downloads/app-arm64-v8a-release)
+5. [TooshehSetup-4](https://github.com/EsiSole/downloader/tree/main/downloads/TooshehSetup-4)
 
-6. [deltachat-gplay-release-2.49.0](https://github.com/EsiSole/downloader/tree/main/downloads/deltachat-gplay-release-2.49.0)
+6. [app-arm64-v8a-release](https://github.com/EsiSole/downloader/tree/main/downloads/app-arm64-v8a-release)
 
-7. [findns-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/findns-windows-amd64)
+7. [deltachat-gplay-release-2.49.0](https://github.com/EsiSole/downloader/tree/main/downloads/deltachat-gplay-release-2.49.0)
 
-8. [nextplayer-v0.16.3-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/nextplayer-v0.16.3-arm64-v8a)
+8. [findns-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/findns-windows-amd64)
 
-9. [slipnet-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/slipnet-windows-amd64)
+9. [nextplayer-v0.16.3-arm64-v8a](https://github.com/EsiSole/downloader/tree/main/downloads/nextplayer-v0.16.3-arm64-v8a)
+
+10. [slipnet-windows-amd64](https://github.com/EsiSole/downloader/tree/main/downloads/slipnet-windows-amd64)
 
 ---
